@@ -40,4 +40,5 @@ python main.py
 📚 Resources
 
 [Universal-Streaming Docs](https://www.assemblyai.com/docs/speech-to-text/universal-streaming)
+
 [Voice Agent Guide](https://www.assemblyai.com/docs/speech-to-text/universal-streaming#voice-agent-use-case)
